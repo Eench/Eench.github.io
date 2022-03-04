@@ -1,0 +1,55 @@
+body {
+    font-family: 'Anton', sans-serif;
+}
+
+.card-content{
+    font-size: 1.3em;
+}
+
+.brand-logo{
+    margin-left:10px;
+}
+
+.SnugHarbor{
+  min-width:100%;
+  margin-top:20px;
+}
+
+h4{
+  font-family: 'Anton', sans-serif;
+  margin:20px;
+  text-align: center;
+  color: #1b5e20;
+}
+
+.essay{
+    margin:50px;
+    text-indent: 50px;
+    font-size: 1.2em;
+}
+
+.flowtext{
+    font-size: 1.2em;
+}
+
+.rose{
+    margin-bottom:10px;
+    max-width:35%;
+}
+
+.healing{
+    margin-top:50px;
+    margin-bottom:10px;
+    max-width:35%;
+}
+
+.culture{
+    margin-top:50px;
+    margin-bottom:10px;
+    max-width:35%;
+}
+
+.glass{
+    margin-top:50px;
+    margin-bottom:10px;
+}
